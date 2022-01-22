@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>TABLES</title>
+</head>
+<body>
+    <h1>Lets upgrade day 3 jaswanth</h1>
+    <h2>Tables</h2>
+    <table border="1">
+         <tr>
+          <td>FOOD</td>
+          <td>COST</td>
+
+
+         </tr>
+         <tr>
+          <td>gobi manchuri</td>
+          <td>50/-</td>
+
+
+         </tr>
+         <tr>
+             <td>BIRYANI</td>
+             <td>160/-</td>
+         </tr>
+         <tr>
+             <td>Paneer Biryani</td>
+             <td>140/-</td>
+         </tr>
+         <tr>
+             <td>Egg Noodles</td>
+             <td>100/-</td>
+         </tr>
+         <tr>
+             <td>Veg Rice</td>
+             <td>80/-</td>
+         </tr>
+
+
+    </table>
+
+</body>
+</html>
